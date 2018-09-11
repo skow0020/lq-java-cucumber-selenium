@@ -7,7 +7,6 @@ import cucumber.api.java.en.When;
 import cucumber.pages.HomePage;
 // import cucumber.pages.CommonPage;
 import cucumber.support.Hooks;
-import org.junit.Assert;
 
 public class HomeSteps {
   private HomePage page;
